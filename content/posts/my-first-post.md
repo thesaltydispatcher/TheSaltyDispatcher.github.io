@@ -21,6 +21,8 @@ Visit the [Hugo](https://gohugo.io) website!
 
 `code sample`
 
+---
+
 [lama dev website](https://lama.dev)
 
 ![description of images](/images/test.png)

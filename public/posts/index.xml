@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Salty Dispatcher</title>
-    <link>https://example.org/posts/</link>
+    <link>https://thesaltydispatcher.github.io/posts/</link>
     <description>Recent content in Posts on The Salty Dispatcher</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Nov 2024 02:36:24 -0500</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thesaltydispatcher.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>https://thesaltydispatcher.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 15 Nov 2024 02:36:24 -0500</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;to be or not to be&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;List item1&lt;/li&gt;&#xA;&lt;li&gt;List item2&lt;/li&gt;&#xA;&lt;li&gt;List item3&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;first item&lt;/li&gt;&#xA;&lt;li&gt;second&lt;/li&gt;&#xA;&lt;li&gt;third&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;code&gt;code sample&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://lama.dev&#34;&gt;lama dev website&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.org/images/test.png&#34; alt=&#34;description of images&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://thesaltydispatcher.github.io/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;to be or not to be&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;List item1&lt;/li&gt;&#xA;&lt;li&gt;List item2&lt;/li&gt;&#xA;&lt;li&gt;List item3&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;first item&lt;/li&gt;&#xA;&lt;li&gt;second&lt;/li&gt;&#xA;&lt;li&gt;third&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;code&gt;code sample&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://lama.dev&#34;&gt;lama dev website&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://thesaltydispatcher.github.io/images/test.png&#34; alt=&#34;description of images&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

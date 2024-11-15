@@ -1,4 +1,4 @@
 baseURL = 'https://thesaltydispatcher.github.io/'
 languageCode = 'en-us'
 title = 'The Salty Dispatcher'
-theme = 'ananke'
+theme = 'hello-friend-ng'
